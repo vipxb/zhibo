@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260222225321 +0800">
+<tv date="20260223112039 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -22923,6 +22923,39 @@
 	<channel id="爱幼教">
 		<display-name lang="zh">爱幼教</display-name>
 	</channel>
+	<programme channel="爱幼教" start="20260223000000 +0800" stop="20260223001000 +0800">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="爱幼教" start="20260223001000 +0800" stop="20260223003200 +0800">
+		<title lang="zh">奶油豆豆咖啡馆1(10)</title>
+	</programme>
+	<programme channel="爱幼教" start="20260223003200 +0800" stop="20260223005300 +0800">
+		<title lang="zh">奶油豆豆咖啡馆1(11)</title>
+	</programme>
+	<programme channel="爱幼教" start="20260223005300 +0800" stop="20260223011500 +0800">
+		<title lang="zh">奶油豆豆咖啡馆1(12)</title>
+	</programme>
+	<programme channel="爱幼教" start="20260223011500 +0800" stop="20260223012800 +0800">
+		<title lang="zh">十二生肖(29)</title>
+	</programme>
+	<programme channel="爱幼教" start="20260223012800 +0800" stop="20260223014100 +0800">
+		<title lang="zh">十二生肖(30)</title>
+	</programme>
+	<programme channel="爱幼教" start="20260223014100 +0800" stop="20260223015400 +0800">
+		<title lang="zh">十二生肖(31)</title>
+	</programme>
+	<programme channel="爱幼教" start="20260223015400 +0800" stop="20260223020700 +0800">
+		<title lang="zh">十二生肖(32)</title>
+	</programme>
+	<programme channel="爱幼教" start="20260223020700 +0800" stop="20260223022000 +0800">
+		<title lang="zh">十二生肖(33)</title>
+	</programme>
+	<programme channel="爱幼教" start="20260223022000 +0800" stop="20260223023300 +0800">
+		<title lang="zh">十二生肖(34)</title>
+	</programme>
+	<programme channel="爱幼教" start="20260223023300 +0800" stop="20260223235959 +0800">
+		<title lang="zh">虹猫蓝兔七侠外传之跳跳篇(05)</title>
+	</programme>
 	<channel id="iHOT爱历史">
 		<display-name lang="zh">iHOT爱历史</display-name>
 	</channel>
